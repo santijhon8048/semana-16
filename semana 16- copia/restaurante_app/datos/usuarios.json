@@ -1,0 +1,50 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Juan",
+        "correo": "juan@gmail.com",
+        "nombre_usuario": "juan",
+        "contrasena": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "santi",
+        "correo": "joel@gmail.com",
+        "nombre_usuario": "joel",
+        "contrasena": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "10",
+        "nombre": "Carlos",
+        "correo": "carlos@gmail.com",
+        "nombre_usuario": "carlos",
+        "contrasena": "1234",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "U004",
+        "nombre": "alex",
+        "correo": "alex@gmail.com",
+        "nombre_usuario": "alex",
+        "contrasena": "12345",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "U005",
+        "nombre": "Maria",
+        "correo": "maria@gmail.com",
+        "nombre_usuario": "Maria",
+        "contrasena": "12345",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "U006",
+        "nombre": "Naya",
+        "correo": "naya@gmail.com",
+        "nombre_usuario": "naya",
+        "contrasena": "1234",
+        "rol": "Administrador"
+    }
+]

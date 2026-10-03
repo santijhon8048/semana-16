@@ -1,0 +1,46 @@
+[
+    {
+        "codigo": "V00001",
+        "fecha": "2026-09-25 21:35:23",
+        "usuario_identificacion": "U001",
+        "nombre_usuario": "juan",
+        "producto_codigo": "P001",
+        "producto_nombre": "Hamburguesa Especial",
+        "cantidad": 1,
+        "precio_unitario": 6.0,
+        "total": 6.0
+    },
+    {
+        "codigo": "V00002",
+        "fecha": "2026-09-25 21:35:57",
+        "usuario_identificacion": "U002",
+        "nombre_usuario": "joel",
+        "producto_codigo": "P003",
+        "producto_nombre": "Empanada de Verde",
+        "cantidad": 1,
+        "precio_unitario": 1.0,
+        "total": 1.0
+    },
+    {
+        "codigo": "V00003",
+        "fecha": "2026-09-25 21:36:31",
+        "usuario_identificacion": "10",
+        "nombre_usuario": "carlos",
+        "producto_codigo": "P005",
+        "producto_nombre": "Cuy a la Parrilla",
+        "cantidad": 2,
+        "precio_unitario": 8.0,
+        "total": 16.0
+    },
+    {
+        "codigo": "V00004",
+        "fecha": "2026-09-30 12:29:52",
+        "usuario_identificacion": "10",
+        "nombre_usuario": "carlos",
+        "producto_codigo": "P003",
+        "producto_nombre": "Empanada de Verde",
+        "cantidad": 3,
+        "precio_unitario": 1.0,
+        "total": 3.0
+    }
+]

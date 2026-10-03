@@ -1,0 +1,30 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Especial",
+        "categoria": "platos",
+        "precio": 6.0,
+        "stock": 7
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Empanada de Verde",
+        "categoria": "Entrada",
+        "precio": 1.0,
+        "stock": 16
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Te de hiervas haromaticas",
+        "categoria": "Jara de 1 litro",
+        "precio": 1.5,
+        "stock": 2
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Cuy a la Parrilla",
+        "categoria": "platos especiales",
+        "precio": 8.0,
+        "stock": 8
+    }
+]
